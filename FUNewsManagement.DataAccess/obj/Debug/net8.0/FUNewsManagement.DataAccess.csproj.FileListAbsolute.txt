@@ -1,0 +1,14 @@
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.DataAccess\bin\Debug\net8.0\FUNewsManagement.DataAccess.deps.json
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.DataAccess\bin\Debug\net8.0\FUNewsManagement.DataAccess.runtimeconfig.json
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.DataAccess\bin\Debug\net8.0\FUNewsManagement.DataAccess.dll
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.DataAccess\bin\Debug\net8.0\FUNewsManagement.DataAccess.pdb
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.DataAccess\obj\Debug\net8.0\FUNewsManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.DataAccess\obj\Debug\net8.0\FUNewsManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.DataAccess\obj\Debug\net8.0\FUNewsManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.DataAccess\obj\Debug\net8.0\FUNewsManagement.DataAccess.AssemblyInfo.cs
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.DataAccess\obj\Debug\net8.0\FUNewsManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.DataAccess\obj\Debug\net8.0\FUNewsManagement.DataAccess.dll
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.DataAccess\obj\Debug\net8.0\refint\FUNewsManagement.DataAccess.dll
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.DataAccess\obj\Debug\net8.0\FUNewsManagement.DataAccess.pdb
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.DataAccess\obj\Debug\net8.0\FUNewsManagement.DataAccess.genruntimeconfig.cache
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.DataAccess\obj\Debug\net8.0\ref\FUNewsManagement.DataAccess.dll

@@ -1,0 +1,15 @@
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.Services\bin\Debug\net8.0\FUNewsManagement.Services.deps.json
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.Services\bin\Debug\net8.0\FUNewsManagement.Services.dll
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.Services\bin\Debug\net8.0\FUNewsManagement.Services.pdb
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.Services\bin\Debug\net8.0\FUNewsManagement.DataAccess.dll
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.Services\bin\Debug\net8.0\FUNewsManagement.DataAccess.pdb
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.Services\obj\Debug\net8.0\FUNewsManagement.Services.csproj.AssemblyReference.cache
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.Services\obj\Debug\net8.0\FUNewsManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.Services\obj\Debug\net8.0\FUNewsManagement.Services.AssemblyInfoInputs.cache
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.Services\obj\Debug\net8.0\FUNewsManagement.Services.AssemblyInfo.cs
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.Services\obj\Debug\net8.0\FUNewsManagement.Services.csproj.CoreCompileInputs.cache
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.Services\obj\Debug\net8.0\FUNewsMa.71F34FBD.Up2Date
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.Services\obj\Debug\net8.0\FUNewsManagement.Services.dll
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.Services\obj\Debug\net8.0\refint\FUNewsManagement.Services.dll
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.Services\obj\Debug\net8.0\FUNewsManagement.Services.pdb
+C:\Users\hahuy\Desktop\assignment 1 PRN222\FUNewsManagement.Services\obj\Debug\net8.0\ref\FUNewsManagement.Services.dll
